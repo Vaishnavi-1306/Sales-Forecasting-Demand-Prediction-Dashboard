@@ -41,7 +41,8 @@ This project helps businesses forecast future sales, predict product demand, opt
 - Stockout Risk Detection
 
 ## Dashboard Preview
-https://github.com/Vaishnavi-1306/Sales-Forecasting-Demand-Prediction-Dashboard/blob/main/Screenshots/dashboard_overview5.png
+
+![Dashboard](Dashboard/dashboard_overview5.png)
 
 
 ## Author
