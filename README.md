@@ -42,7 +42,7 @@ This project helps businesses forecast future sales, predict product demand, opt
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard/dashboard_overview5.png)
+![Dashboard](Screenshots/dashboard_overview5.png)
 
 
 ## Author
